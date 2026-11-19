@@ -8,7 +8,7 @@ Desenvolver softwares e soluções tecnológicas inovadoras para a área da educ
 
 ## Localização
 - **Endereço:** Rua Soares e Borges Alan, 208 
-- **Local:** Stars Hollow, Santa Catarina, Brasil - CEP 88000-001
+- **Local:** Stars Hollow, Florianópolis, SC - CEP 88000-001
 
 ## Equipe
 - **Maresa Nascimento** — Diretora Executiva e Arquiteta de Software 
