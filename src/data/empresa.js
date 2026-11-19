@@ -46,21 +46,21 @@ export const empresa = {
     {
       nome: "Maresa Nascimento",
       cargo: "CEO e Arquiteta de Software",
-      foto: "/images/wanderson.jpg",
+      foto: "/images/maresa.jpeg",
       alt: "Foto de Maresa Nascimento",
       descricao: "Especialista em arquitetura de software e gestão executiva, chegou para liderar o desenvolvimento de soluções tecnológicas e direcionar a inovação da empresa."
     },
     {
       nome: "Emanuele Carvalho",
       cargo: "Vice Diretora e Desenvolvedora Back-end",
-      foto: "/images/sheldon.jpg",
+      foto: "/images/emanuele.jpeg",
       alt: "Foto de Emanuele Carvalho",
       descricao: "Responsável por desenvolver o Back-end, chegou para fortalecer a estrutura tecnológica dos sistemas e garantir soluções eficientes e funcionais."
     },
     {
       nome: "Lorelai Nogueira",
       cargo: "Gestora Administrativa e Analista de Marketing Digital",
-      foto: "/images/amy.jpg",
+      foto: "/images/lorelai.jpeg",
       alt: "Foto de Lorelai Nogueira",
       descricao: "Especialista em gestão administrativa e marketing digital, chegou para organizar os processos internos e ampliar a presença da empresa no mercado."
     }
